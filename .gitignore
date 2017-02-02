@@ -240,3 +240,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+SlackRTMBot/Properties/Settings.Designer.cs
+SlackRTMBot/Properties/Settings.settings
